@@ -1,0 +1,6 @@
+bin/
+obj/
+packages/
+*.exe
+.vs/
+*.user
